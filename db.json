@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone xiome",
+    "descricao": "Smartphone de ultima geração",
+    "preco": 1500,
+    "imagem": "smartphoneXiome.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Smartphone samsung",
+    "descricao": "Smartphone de ultima geração",
+    "preco": 4500,
+    "imagem": "smartphoneSamsung.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Smartphone apple",
+    "descricao": "Smartphone de ultima geração",
+    "preco": 6500,
+    "imagem": "smartphoneApple.jpg"
+  },
+  {
+    "nome": "produto teste",
+    "descricao": "descrição qualquer",
+    "preco": 4500,
+    "imagem": "foto.jpg",
+    "id": "bb58d1d1-cbc7-430b-9e94-f61e98f7fafe"
+  }
+]
